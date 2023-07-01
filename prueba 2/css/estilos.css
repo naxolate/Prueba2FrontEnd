@@ -1,0 +1,49 @@
+.img_slide{
+ 
+    width: 200px;
+    height: 500px;
+     
+}
+
+.img_card{
+    
+    padding: 50px;
+}
+
+.mapa{
+ 
+   height:338px;
+   width:1000px;
+}
+
+.mapouter{
+    position:relative;
+    text-align:right;
+    height:338px;
+    width:817px;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+.centrado{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+} 
+.contenedor{
+        position: relative;
+        display: inline-block;
+        text-align: center;
+}
+.texto-encima{
+        position: absolute;
+        top: 10px;
+        left: 10px;
+}
